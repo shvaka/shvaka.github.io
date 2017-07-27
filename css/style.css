@@ -517,13 +517,6 @@ footer .copyright a {
     padding-right: 0;
     text-align: center;
   }
-  /*      Featured on section     */
-  .featured_on {
-    padding: 25px 0 5px 0!important;
-  }
-  .featured_on ul li {
-    margin-bottom: 25px!important;
-  }
   /*      About Section       */
   .about .features_list {
     text-align: center;
@@ -540,6 +533,10 @@ footer .copyright a {
   a.app_link {
     display: block;
     margin-top: 20px;
+  }
+  .iphone img {
+    position: relative;
+    right: 20px;
   }
   /*      Subscription section        */
   .sub_box #mc-email,
